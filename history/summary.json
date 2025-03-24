@@ -22,19 +22,19 @@
     "url": "https://seafy.com",
     "icon": "https://icons.duckduckgo.com/ip3/seafy.com.ico",
     "slug": "seafy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1146,
-    "timeDay": 1146,
-    "timeWeek": 1146,
-    "timeMonth": 1146,
-    "timeYear": 1146,
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "96.21%",
+    "time": 1243,
+    "timeDay": 1243,
+    "timeWeek": 1243,
+    "timeMonth": 1243,
+    "timeYear": 1243,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 24
     }
   }
 ]
