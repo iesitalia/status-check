@@ -23,6 +23,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  uptime: "1-59/5 * * * *"
+
+
 commitMessages:
   commitAuthorName: "IES Italia"
   commitAuthorEmail: "github-bot@ies-italia.it"
