@@ -7,6 +7,8 @@ sites:
     url: https://ies-italia.it
   - name: Seafy
     url: https://seafy.com
+  - name: "Seafy API"
+    url: $SEAFY_API_URL  # .
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
