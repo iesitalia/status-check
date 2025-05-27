@@ -14,8 +14,8 @@ status-website:
   #cname: ies-italia.it
   baseUrl: /status-check
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status HiWay Media
-  introTitle: "**HiWay Media** Status Dashboard."
+  name: Status IES Italia
+  introTitle: "**IES Italia** Status Dashboard."
   introMessage: " "
   navbar:
     - title: Status
