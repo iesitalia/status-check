@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ies-italia.it.ico",
     "slug": "ies-italia",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 929,
     "timeDay": 1173,
     "timeWeek": 882,
@@ -114,19 +114,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "84.15%",
-    "uptimeWeek": "89.15%",
-    "uptimeMonth": "94.07%",
+    "uptimeDay": "85.07%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "99.09%",
     "time": 623,
-    "timeDay": 555,
-    "timeWeek": 575,
-    "timeMonth": 670,
+    "timeDay": 589,
+    "timeWeek": 576,
+    "timeMonth": 672,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-12-22": 176,
+      "2025-12-22": 177,
       "2025-12-21": 91,
       "2025-12-20": 167,
       "2025-12-19": 72,
@@ -158,7 +158,7 @@
       "2025-11-17": 62,
       "2025-11-16": 18,
       "2025-11-15": 18,
-      "2025-11-14": 22
+      "2025-11-14": 11
     }
   },
   {
@@ -166,16 +166,16 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "84.35%",
-    "uptimeWeek": "89.31%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "85.27%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "99.04%",
     "time": 695,
-    "timeDay": 684,
+    "timeDay": 711,
     "timeWeek": 695,
-    "timeMonth": 705,
+    "timeMonth": 706,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2025-12-22": 175,
@@ -211,8 +211,7 @@
       "2025-11-16": 18,
       "2025-11-15": 18,
       "2025-11-14": 22,
-      "2025-11-09": 37,
-      "2025-11-08": 11
+      "2025-11-09": 37
     }
   }
 ]
