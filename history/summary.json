@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seafy.com.ico",
     "slug": "seafy",
     "status": "up",
-    "uptime": "95.32%",
+    "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.32%",
+    "uptimeYear": "95.33%",
     "time": 1047,
     "timeDay": 661,
     "timeWeek": 871,
@@ -114,18 +114,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "93.55%",
-    "uptimeMonth": "92.80%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.04%",
     "time": 614,
     "timeDay": 582,
-    "timeWeek": 582,
+    "timeWeek": 588,
     "timeMonth": 579,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2026-01-10": 1,
       "2026-01-09": 58,
       "2026-01-08": 99,
       "2026-01-07": 183,
@@ -153,7 +154,7 @@
       "2025-12-16": 123,
       "2025-12-15": 223,
       "2025-12-14": 125,
-      "2025-12-13": 58
+      "2025-12-13": 34
     }
   },
   {
@@ -161,18 +162,19 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "93.64%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "93.98%",
+    "uptimeMonth": "92.96%",
+    "uptimeYear": "98.99%",
     "time": 691,
     "timeDay": 703,
-    "timeWeek": 691,
+    "timeWeek": 697,
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2026-01-10": 0,
       "2026-01-09": 57,
       "2026-01-08": 98,
       "2026-01-07": 182,
@@ -200,7 +202,7 @@
       "2025-12-16": 123,
       "2025-12-15": 220,
       "2025-12-14": 123,
-      "2025-12-13": 58
+      "2025-12-13": 34
     }
   }
 ]
