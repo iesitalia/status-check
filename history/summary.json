@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 928,
-    "timeDay": 723,
-    "timeWeek": 805,
-    "timeMonth": 903,
+    "timeDay": 1028,
+    "timeWeek": 835,
+    "timeMonth": 899,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2025-09-22": 527,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.42%",
     "time": 1041,
-    "timeDay": 648,
-    "timeWeek": 625,
-    "timeMonth": 709,
+    "timeDay": 851,
+    "timeWeek": 651,
+    "timeMonth": 713,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-12-01": 31,
@@ -114,19 +114,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "83.35%",
-    "uptimeWeek": "87.44%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "84.81%",
+    "uptimeWeek": "87.43%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.06%",
     "time": 609,
-    "timeDay": 545,
+    "timeDay": 560,
     "timeWeek": 557,
-    "timeMonth": 566,
+    "timeMonth": 565,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2026-01-15": 213,
+      "2026-01-15": 214,
       "2026-01-14": 123,
       "2026-01-13": 232,
       "2026-01-12": 248,
@@ -151,7 +151,7 @@
       "2025-12-24": 53,
       "2025-12-23": 24,
       "2025-12-22": 208,
-      "2025-12-21": 60
+      "2025-12-21": 49
     }
   },
   {
@@ -159,16 +159,16 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "83.55%",
+    "uptimeDay": "85.01%",
     "uptimeWeek": "87.63%",
-    "uptimeMonth": "92.88%",
+    "uptimeMonth": "92.90%",
     "uptimeYear": "99.01%",
     "time": 690,
-    "timeDay": 682,
+    "timeDay": 678,
     "timeWeek": 683,
-    "timeMonth": 681,
+    "timeMonth": 678,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2026-01-15": 211,
@@ -196,7 +196,7 @@
       "2025-12-24": 53,
       "2025-12-23": 24,
       "2025-12-22": 207,
-      "2025-12-21": 59
+      "2025-12-21": 48
     }
   }
 ]
