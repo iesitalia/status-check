@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seafy.com.ico",
     "slug": "seafy",
     "status": "up",
-    "uptime": "95.49%",
+    "uptime": "95.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.49%",
+    "uptimeYear": "95.50%",
     "time": 1037,
     "timeDay": 789,
     "timeWeek": 737,
@@ -114,18 +114,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "88.03%",
-    "uptimeWeek": "84.28%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "87.98%",
+    "uptimeWeek": "84.27%",
+    "uptimeMonth": "92.49%",
+    "uptimeYear": "99.04%",
     "time": 606,
     "timeDay": 650,
     "timeWeek": 568,
     "timeMonth": 566,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2026-01-21": 1,
       "2026-01-20": 173,
       "2026-01-19": 133,
       "2026-01-18": 293,
@@ -145,7 +146,7 @@
       "2026-01-04": 153,
       "2026-01-03": 159,
       "2026-01-02": 80,
-      "2026-01-01": 75
+      "2026-01-01": 29
     }
   },
   {
@@ -153,18 +154,19 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "88.19%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "88.18%",
     "uptimeWeek": "84.50%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "98.98%",
+    "uptimeMonth": "92.60%",
+    "uptimeYear": "98.99%",
     "time": 689,
     "timeDay": 794,
     "timeWeek": 684,
     "timeMonth": 680,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2026-01-21": 0,
       "2026-01-20": 171,
       "2026-01-19": 130,
       "2026-01-18": 289,
@@ -184,7 +186,7 @@
       "2026-01-04": 152,
       "2026-01-03": 158,
       "2026-01-02": 76,
-      "2026-01-01": 74
+      "2026-01-01": 29
     }
   }
 ]
