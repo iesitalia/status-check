@@ -114,19 +114,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "79.05%",
-    "uptimeWeek": "86.55%",
-    "uptimeMonth": "92.25%",
+    "uptimeDay": "84.20%",
+    "uptimeWeek": "86.59%",
+    "uptimeMonth": "92.30%",
     "uptimeYear": "99.03%",
     "time": 605,
-    "timeDay": 610,
+    "timeDay": 619,
     "timeWeek": 582,
     "timeMonth": 568,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-01-24": 177,
+      "2026-01-24": 178,
       "2026-01-23": 296,
       "2026-01-21": 265,
       "2026-01-20": 173,
@@ -142,7 +142,7 @@
       "2026-01-10": 193,
       "2026-01-09": 58,
       "2026-01-08": 99,
-      "2026-01-07": 43
+      "2026-01-07": 20
     }
   },
   {
@@ -150,14 +150,14 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "79.36%",
-    "uptimeWeek": "86.73%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "84.47%",
+    "uptimeWeek": "86.77%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "98.98%",
     "time": 690,
-    "timeDay": 766,
+    "timeDay": 774,
     "timeWeek": 703,
     "timeMonth": 683,
     "timeYear": 690,
@@ -178,7 +178,7 @@
       "2026-01-10": 190,
       "2026-01-09": 57,
       "2026-01-08": 98,
-      "2026-01-07": 42
+      "2026-01-07": 20
     }
   }
 ]
