@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seafy.com.ico",
     "slug": "seafy",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.60%",
+    "uptimeYear": "95.61%",
     "time": 1032,
     "timeDay": 671,
     "timeWeek": 734,
@@ -115,19 +115,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "99.06%",
     "time": 605,
     "timeDay": 475,
-    "timeWeek": 602,
-    "timeMonth": 573,
+    "timeWeek": 606,
+    "timeMonth": 572,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-01-28": 11,
+      "2026-01-28": 12,
       "2026-01-26": 18,
       "2026-01-25": 42,
       "2026-01-24": 200,
@@ -144,7 +144,7 @@
       "2026-01-12": 248,
       "2026-01-11": 196,
       "2026-01-10": 193,
-      "2026-01-09": 58
+      "2026-01-09": 26
     }
   },
   {
@@ -152,15 +152,15 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "92.55%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "99.01%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "99.02%",
     "time": 690,
     "timeDay": 597,
-    "timeWeek": 726,
+    "timeWeek": 734,
     "timeMonth": 688,
     "timeYear": 690,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
       "2026-01-12": 245,
       "2026-01-11": 195,
       "2026-01-10": 190,
-      "2026-01-09": 57
+      "2026-01-09": 25
     }
   }
 ]
