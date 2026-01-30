@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seafy.com.ico",
     "slug": "seafy",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.63%",
+    "uptimeYear": "95.64%",
     "time": 1030,
     "timeDay": 624,
     "timeWeek": 688,
@@ -115,19 +115,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "99.05%",
     "time": 605,
-    "timeDay": 667,
-    "timeWeek": 608,
+    "timeDay": 586,
+    "timeWeek": 614,
     "timeMonth": 573,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-01-30": 47,
+      "2026-01-30": 48,
       "2026-01-29": 44,
       "2026-01-28": 44,
       "2026-01-26": 18,
@@ -145,7 +145,7 @@
       "2026-01-13": 232,
       "2026-01-12": 248,
       "2026-01-11": 196,
-      "2026-01-10": 193
+      "2026-01-10": 169
     }
   },
   {
@@ -153,15 +153,15 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "93.72%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "92.32%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "92.37%",
     "uptimeYear": "99.00%",
     "time": 691,
-    "timeDay": 829,
-    "timeWeek": 745,
+    "timeDay": 813,
+    "timeWeek": 750,
     "timeMonth": 689,
     "timeYear": 691,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
       "2026-01-13": 231,
       "2026-01-12": 245,
       "2026-01-11": 195,
-      "2026-01-10": 190
+      "2026-01-10": 166
     }
   }
 ]
