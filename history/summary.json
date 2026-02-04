@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seafy.com.ico",
     "slug": "seafy",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.69%",
+    "uptimeYear": "95.70%",
     "time": 1025,
     "timeDay": 680,
     "timeWeek": 647,
@@ -115,11 +115,11 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "92.03%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "92.06%",
     "uptimeYear": "99.04%",
     "time": 605,
     "timeDay": 620,
@@ -127,6 +127,7 @@
     "timeMonth": 575,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2026-02-04": 1,
       "2026-02-03": 122,
       "2026-02-01": 16,
       "2026-01-31": 102,
@@ -147,8 +148,7 @@
       "2026-01-14": 123,
       "2026-01-13": 232,
       "2026-01-12": 248,
-      "2026-01-11": 196,
-      "2026-01-10": 12
+      "2026-01-11": 196
     }
   },
   {
@@ -156,18 +156,19 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "91.55%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "91.54%",
     "uptimeWeek": "96.14%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "98.99%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "99.00%",
     "time": 691,
     "timeDay": 679,
     "timeWeek": 701,
     "timeMonth": 693,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2026-02-03": 122,
       "2026-02-01": 16,
       "2026-01-31": 99,
@@ -188,8 +189,7 @@
       "2026-01-14": 120,
       "2026-01-13": 231,
       "2026-01-12": 245,
-      "2026-01-11": 195,
-      "2026-01-10": 11
+      "2026-01-11": 195
     }
   }
 ]
