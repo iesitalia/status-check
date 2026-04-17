@@ -1,7 +1,7 @@
 url: $SEAFY_API_URL
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2026-04-16T23:37:50.549Z
+status: down
+code: 503
+responseTime: 604
+lastUpdated: 2026-04-17T10:20:48.811Z
 startTime: 2025-05-27T15:35:24.252Z
 generator: Upptime <https://github.com/upptime/upptime>
