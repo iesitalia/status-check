@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 940,
-    "timeDay": 1138,
-    "timeWeek": 943,
-    "timeMonth": 920,
+    "timeDay": 868,
+    "timeWeek": 934,
+    "timeMonth": 919,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2026-03-06": 40,
@@ -34,11 +34,11 @@
     "uptimeWeek": "92.43%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "96.39%",
-    "time": 949,
-    "timeDay": 700,
-    "timeWeek": 539,
-    "timeMonth": 702,
-    "timeYear": 836,
+    "time": 948,
+    "timeDay": 515,
+    "timeWeek": 538,
+    "timeMonth": 692,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2026-06-06": 64,
       "2026-06-05": 258,
@@ -79,18 +79,19 @@
     "url": "$SEAFY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.64%",
-    "uptimeDay": "30.54%",
+    "uptimeDay": "41.03%",
     "uptimeWeek": "44.42%",
     "uptimeMonth": "85.28%",
     "uptimeYear": "97.56%",
     "time": 603,
-    "timeDay": 598,
+    "timeDay": 613,
     "timeWeek": 569,
-    "timeMonth": 579,
+    "timeMonth": 578,
     "timeYear": 604,
     "dailyMinutesDown": {
+      "2026-06-09": 1,
       "2026-06-08": 849,
       "2026-06-07": 1032,
       "2026-06-06": 708,
@@ -158,7 +159,7 @@
       "2026-01-31": 102,
       "2026-01-30": 66,
       "2026-01-29": 44,
-      "2026-01-28": 44
+      "2026-01-28": 33
     }
   },
   {
@@ -166,18 +167,19 @@
     "url": "$SEAFY_DASHBOARD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seafy-dashboard",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "30.63%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "41.13%",
     "uptimeWeek": "44.49%",
     "uptimeMonth": "85.30%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.77%",
     "time": 697,
-    "timeDay": 690,
+    "timeDay": 761,
     "timeWeek": 674,
-    "timeMonth": 685,
+    "timeMonth": 682,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2026-06-09": 0,
       "2026-06-08": 847,
       "2026-06-07": 1031,
       "2026-06-06": 708,
@@ -245,7 +247,7 @@
       "2026-01-29": 44,
       "2026-01-28": 43,
       "2026-01-26": 17,
-      "2026-01-25": 42
+      "2026-01-25": 18
     }
   }
 ]
